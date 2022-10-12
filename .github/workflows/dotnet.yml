@@ -32,4 +32,4 @@ jobs:
         context: .
         file: ./GitHubBuildTest/Dockerfile
         push: true
-        tags: rocker/drd:latest
+        tags: dineshdock123456/sample:latest
